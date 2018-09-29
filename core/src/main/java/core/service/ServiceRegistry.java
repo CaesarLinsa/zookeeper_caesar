@@ -1,7 +1,5 @@
 package core.service;
 
-import net.sf.json.JSONArray;
-
 import java.util.ArrayList;
 
 public interface ServiceRegistry {

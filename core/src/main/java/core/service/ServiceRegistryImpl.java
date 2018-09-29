@@ -1,7 +1,4 @@
 package core.service;
-
-import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
 import org.apache.zookeeper.*;
 import org.springframework.stereotype.Component;
 

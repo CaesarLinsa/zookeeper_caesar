@@ -1,7 +1,7 @@
 package com.soft.client.config;
 
-import core.service.ServiceRegistry;
-import core.service.ServiceRegistryImpl;
+import com.soft.client.service.ServiceRegistry;
+import com.soft.client.service.ServiceRegistryImpl;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
